@@ -42,7 +42,7 @@
       </div>
     </div>
   </nav>
-      <!-- Image and text -->
+      
 
   <div class="container">
       <div class="row">
